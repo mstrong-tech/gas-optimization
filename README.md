@@ -1,6 +1,6 @@
 ## How to use?
 
-Clone the repository, go into the project directory and install all dependencies:
+Clone the repository, go into the project directory and install all dependencies.
 
 ```js
 npm i
